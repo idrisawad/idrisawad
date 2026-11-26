@@ -11,6 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=idrisawad&hide_title=true&hide_border=true&show_icons=true&theme=dark&bg_color=15192e&text_color=e2e8f0&icon_color=4ade80" alt="live stats" />
 </p>
 
+<div> 
   <a href="https://www.linkedin.com/in/idris-awad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,15 +25,7 @@
   </a>
 </div> 
 
-My name is Idris Awad, but you may also know me as @Almost2Late. 
-I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for Coding, Creating, Breaking, and Fixing things.
-
-I have a diverse background, having worked as a tattoo artist, grayhat hacktivist, and a martial arts 剛柔流 sempai. My interests and skills have led me to explore the ever-evolving world of technology and security, and I am excited to share my projects and contributions with the community.
-
-<p align="center">
-  <img src="./assets/typewriter-intro.svg" alt="{{name}} — terminal session" width="100%" />
-</p>
-
+My name is Idris Awad, I am a Senior Tech Professional with +5 years Swiss and German Enterprise experiencem in IT security, AI, WEB3, and Blockchain fields, with a passion for Coding, Creating, Breaking, and Fixing things.
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -56,7 +49,6 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/O/openai-logo-F97AAA4254-seeklogo.com.png" title="Open AI" alt="Open AI" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/D/discord-logo-B02E5FBA04-seeklogo.com.png" title="Discord" alt="Discord" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Midjourney_Emblem.png/640px-Midjourney_Emblem.png" title="Midjourney" alt="Midjourney" width="40" height="40"/>&nbsp;
 </div> 
 
 ---
@@ -64,22 +56,14 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisawad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+</div> 
+  On this Repo, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
+</div> 
 
-On this Repo, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
-
-<div id="badges" align="center">
-   <a href="https://github.com/almost2late/">
-    <img src="https://img.shields.io/badge/My_Forks-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-</div>
-
-Thank you for visiting my page, and I hope you enjoy what you find here!
-
----
 
 ### 📊 Official Repo Stats - My Forked Stats 📊 ###
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almost2late&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)  [!
 
 ---
 
