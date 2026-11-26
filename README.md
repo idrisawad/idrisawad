@@ -79,7 +79,7 @@ My name is Idris Awad, I am a Senior Tech Professional with +5 years Swiss and G
     <img src="https://img.shields.io/badge/Try_hack_Me-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge" />
   </a>
   <a href="https://x.com/idrisalawadi">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge" />
+    <img src="https://img.shields.io/badge/x.com-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
   </a>
 </p>
 
