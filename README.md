@@ -57,11 +57,11 @@
 
 ### Copyright Notice: ###
 
-*Copyright (c) 2023 Idris Awad. All rights reserved. Any code or other materials provided on this Page are the property of the developer(s) and are protected by copyright and other intellectual property laws. Unauthorized use, reproduction, distribution, or creation of derivative works is prohibited.*
+*Copyright (c) 2023-2026 Idris Awad. All rights reserved. Any code or other materials provided on this Repository are the property of the developer(s) and are protected by copyright and other intellectual property laws. Unauthorized use, reproduction, distribution, or creation of derivative works is prohibited.*
 
-*Please note that using, reproducing or distributing the code or materials provided on this Page without proper attribution and without obtaining express permission from the developer(s) may result in copyright infringement and legal action being taken against you.*
+*Please note that using, reproducing or distributing the code or materials provided on this Repository without proper attribution and without obtaining express permission from the developer(s) may result in copyright infringement and legal action being taken against you.*
 
-*By accessing and using this Page, you acknowledge and agree to the terms of this legal disclaimer, policy and copyright notice.*
+*By accessing and using this Repository, you acknowledge and agree to the terms of this legal disclaimer, policy and copyright notice.*
 </div>
 
 <p align="center">
