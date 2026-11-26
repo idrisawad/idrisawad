@@ -1,3 +1,7 @@
+<p align="center">
+  My name is Idris Awad, I am a Senior Tech Professional with +5 years Swiss and German Enterprise experiencem in IT security, AI, WEB3, and Blockchain fields, with a passion for Coding, Creating, Breaking, and Fixing things.
+</p>
+
 <table>
   <tr>
     <td>
@@ -23,10 +27,6 @@
   </tr>
 </table>
 
-<p align="center">
-  My name is Idris Awad, I am a Senior Tech Professional with +5 years Swiss and German Enterprise experiencem in IT security, AI, WEB3, and Blockchain fields, with a passion for Coding, Creating, Breaking, and Fixing things.
-</p>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/d017d73a80d44322eb2bde4cb0507453af8665bd/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" title="Google" alt="Google" width="40" height="40"/>&nbsp;
@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  On this Repo, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
+  In this Repository, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
 
 ### 📊 Official Repo Stats - My Forked Stats 📊 ###
 
