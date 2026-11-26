@@ -56,14 +56,14 @@ My name is Idris Awad, I am a Senior Tech Professional with +5 years Swiss and G
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisawad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-</div> 
+<div> 
   On this Repo, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
 </div> 
 
 
 ### 📊 Official Repo Stats - My Forked Stats 📊 ###
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)  [!
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats) 
 
 ---
 
