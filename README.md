@@ -51,10 +51,12 @@
 
 <div align="center">
 ### 📊 Official Repo Stats - My Forked Stats 📊 ###
+</div>
 
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrisawad&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats) 
 </div>
----
+
 <div align="center">
 ### Legal Disclaimer: ###
 
