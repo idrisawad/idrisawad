@@ -29,7 +29,7 @@
   <circle cx="150" cy="59" r="6.5" fill="#27c93f"/>
 
   <!-- Window title -->
-  <text x="600" y="63" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7a7f99" letter-spacing="2">~/jane — zsh — 124×34</text>
+  <text x="600" y="63" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7a7f99" letter-spacing="2">~/idrisawad — zsh — 124×34</text>
 
   <!-- Terminal content -->
   <g font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14">
