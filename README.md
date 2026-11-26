@@ -2,11 +2,9 @@
   <img src="/typewriter-intro.svg" alt="{{name}} — terminal session" width="100%" />
 </p>
 
-<div id="badges" align="center">
-  <a href="https://github.com/idrisawad">
-    <img src="https://komarev.com/ghpvc/?username=idrisawad&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
+<p align="center">
+  <img src="/analytics-grid.svg" alt="Analytics — today, in numbers" width="100%" />
+</p>
 
 <!-- Optional: drop github-readme-stats card here for actual real-time stats -->
 <p align="center">
@@ -99,12 +97,12 @@ Thank you for visiting my page, and I hope you enjoy what you find here!
 
 *Copyright (c) 2023 Idris Awad. All rights reserved. Any code or other materials provided on this Page are the property of the developer(s) and are protected by copyright and other intellectual property laws. Unauthorized use, reproduction, distribution, or creation of derivative works is prohibited.*
 
-<p align="center">
-  <img src="/analytics-grid.svg" alt="Analytics — today, in numbers" width="100%" />
-</p>
-
-
 *Please note that using, reproducing or distributing the code or materials provided on this Page without proper attribution and without obtaining express permission from the developer(s) may result in copyright infringement and legal action being taken against you.*
 
 *By accessing and using this Page, you acknowledge and agree to the terms of this legal disclaimer, policy and copyright notice.*
 
+<div id="badges" align="center">
+  <a href="https://github.com/idrisawad">
+    <img src="https://komarev.com/ghpvc/?username=idrisawad&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
