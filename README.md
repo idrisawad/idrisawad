@@ -6,6 +6,7 @@
   <img src="/analytics-grid.svg" alt="Analytics — today, in numbers" width="100%" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisawad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Optional: drop github-readme-stats card here for actual real-time stats -->
 
   <img src="https://github-readme-stats.vercel.app/api?username=idrisawad&hide_title=true&hide_border=true&show_icons=true&theme=dark&bg_color=15192e&text_color=e2e8f0&icon_color=4ade80" alt="live stats" />
@@ -40,10 +41,6 @@ My name is Idris Awad, I am a Senior Tech Professional with +5 years Swiss and G
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>&nbsp;
 </div> 
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisawad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <div> 
