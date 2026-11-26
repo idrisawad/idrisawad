@@ -14,12 +14,15 @@
   <img alt="3d contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </picture>
 
-### {{name}} — what these towers mean
+<p align="center">
+  <img src="/analytics-grid.svg" alt="{{name}} — today, in numbers" width="100%" />
+</p>
 
-- **Tall** weeks = pairing on greenfield work
-- **Flat** stretches = vacations or deep-research weeks
-- **Spiky** weekends = side projects, [{{website}}]({{website_url}})
-<div id="badges" align="center">
+
+<!-- Optional: drop github-readme-stats card here for actual real-time stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username={{username}}&hide_title=true&hide_border=true&show_icons=true&theme=dark&bg_color=15192e&text_color=e2e8f0&icon_color=4ade80" alt="live stats" />
+</p>
   <a href="https://www.linkedin.com/in/idris-awad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
