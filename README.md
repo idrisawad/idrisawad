@@ -27,6 +27,19 @@ I am an IT security, AI, WEB3, and Blockchain enthusiast with a passion for Codi
 
 I have a diverse background, having worked as a tattoo artist, grayhat hacktivist, and a martial arts 剛柔流 sempai. My interests and skills have led me to explore the ever-evolving world of technology and security, and I am excited to share my projects and contributions with the community.
 
+<p align="center">
+  <img src="./assets/typewriter-intro.svg" alt="{{name}} — terminal session" width="100%" />
+</p>
+
+### projects on the desk
+
+- [{{project_one_name}}]({{project_one_url}}) — {{project_one_desc}}
+- [{{project_two_name}}]({{project_two_url}}) — {{project_two_desc}}
+- [{{project_three_name}}]({{project_three_url}}) — {{project_three_desc}}
+
+### writing
+
+[`{{essay_one_title}}`]({{essay_one_url}}) · [`{{essay_two_title}}`]({{essay_two_url}})
 ---
 
 ### :hammer_and_wrench: Languages I prefere & Systems I like playing with: :hammer_and_wrench: ### 
