@@ -8,16 +8,9 @@
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
-  <img alt="3d contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</picture>
-
 <p align="center">
-  <img src="/analytics-grid.svg" alt="{{name}} — today, in numbers" width="100%" />
+  <img src="/analytics-grid.svg" alt="Analytics — today, in numbers" width="100%" />
 </p>
-
 
 <!-- Optional: drop github-readme-stats card here for actual real-time stats -->
 <p align="center">
