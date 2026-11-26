@@ -13,10 +13,6 @@
 <p align="center">
   <img src="/analytics-grid.svg" alt="Analytics — today, in numbers" width="100%" />
 </p>
-
-<div align="center">
-  In this Repository, you will find a variety of projects related to IT security, AI, WEB3 and blockchain, as well as other projects that I find interesting and fun to work on. I invite you to take a look around, and feel free to reach out if you have any questions or want to collaborate on a project.
-</div>
   
 <table>
   <tr>
