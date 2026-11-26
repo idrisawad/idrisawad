@@ -9,9 +9,7 @@
 <!-- Optional: drop github-readme-stats card here for actual real-time stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=idrisawad&hide_title=true&hide_border=true&show_icons=true&theme=dark&bg_color=15192e&text_color=e2e8f0&icon_color=4ade80" alt="live stats" />
-</p>
 
-<div> 
   <a href="https://www.linkedin.com/in/idris-awad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,7 +21,7 @@
   <a href="https://twitter.com/Almost2Late">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div> 
+</p>
 
 My name is Idris Awad, I am a Senior Tech Professional with +5 years Swiss and German Enterprise experiencem in IT security, AI, WEB3, and Blockchain fields, with a passion for Coding, Creating, Breaking, and Fixing things.
 
