@@ -23,18 +23,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/idrisawad">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://tryhackme.com/p/AlmostTooLate">
-    <img src="https://img.shields.io/badge/Try_hack_Me-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge" />
-  </a>
-  <a href="https://x.com/idrisalawadi">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
-</p>
-
 My name is Idris Awad, I am a Senior Tech Professional with +5 years Swiss and German Enterprise experiencem in IT security, AI, WEB3, and Blockchain fields, with a passion for Coding, Creating, Breaking, and Fixing things.
 
 <div>
@@ -82,6 +70,18 @@ My name is Idris Awad, I am a Senior Tech Professional with +5 years Swiss and G
 *Please note that using, reproducing or distributing the code or materials provided on this Page without proper attribution and without obtaining express permission from the developer(s) may result in copyright infringement and legal action being taken against you.*
 
 *By accessing and using this Page, you acknowledge and agree to the terms of this legal disclaimer, policy and copyright notice.*
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/idrisawad">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://tryhackme.com/p/AlmostTooLate">
+    <img src="https://img.shields.io/badge/Try_hack_Me-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge" />
+  </a>
+  <a href="https://x.com/idrisalawadi">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge" />
+  </a>
+</p>
 
 <div id="badges" align="center">
   <a href="https://github.com/idrisawad">
