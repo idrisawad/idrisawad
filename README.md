@@ -3,7 +3,6 @@
   <img src="https://github.com/idrisawad/idrisawad/blob/main/HelloWorld.gif" width="150"/>
 
 
-
 <div id="badges" align="center">
   <a href="https://github.com/idrisawad">
     <img src="https://komarev.com/ghpvc/?username=idrisawad&style=flat-square&color=blue" alt=""/>
@@ -14,9 +13,11 @@
   <a href="https://www.linkedin.com/in/idris-awad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="https://tryhackme.com/p/AlmostTooLate">
     <img src="https://img.shields.io/badge/Try_hack_Me-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
   </a>
+  
   <a href="https://twitter.com/Almost2Late">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -31,18 +32,6 @@ I have a diverse background, having worked as a tattoo artist, grayhat hacktivis
   <img src="./assets/typewriter-intro.svg" alt="{{name}} — terminal session" width="100%" />
 </p>
 
-### projects on the desk
-
-- [{{project_one_name}}]({{project_one_url}}) — {{project_one_desc}}
-- [{{project_two_name}}]({{project_two_url}}) — {{project_two_desc}}
-- [{{project_three_name}}]({{project_three_url}}) — {{project_three_desc}}
-
-### writing
-
-[`{{essay_one_title}}`]({{essay_one_url}}) · [`{{essay_two_title}}`]({{essay_two_url}})
----
-
-### :hammer_and_wrench: Languages I prefere & Systems I like playing with: :hammer_and_wrench: ### 
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
