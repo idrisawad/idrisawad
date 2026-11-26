@@ -7,9 +7,9 @@
 </p>
 
 <!-- Optional: drop github-readme-stats card here for actual real-time stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idrisawad&hide_title=true&hide_border=true&show_icons=true&theme=dark&bg_color=15192e&text_color=e2e8f0&icon_color=4ade80" alt="live stats" />
 
+  <img src="https://github-readme-stats.vercel.app/api?username=idrisawad&hide_title=true&hide_border=true&show_icons=true&theme=dark&bg_color=15192e&text_color=e2e8f0&icon_color=4ade80" alt="live stats" />
+  </a>
   <a href="https://www.linkedin.com/in/idris-awad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
